@@ -1,0 +1,10 @@
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\bin\Debug\CRUD_Employees.Model.dll.config
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\bin\Debug\CRUD_Employees.Model.dll
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\bin\Debug\CRUD_Employees.Model.pdb
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\bin\Debug\EntityFramework.dll
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\bin\Debug\EntityFramework.xml
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\obj\Debug\CRUD_Employees.Model.csproj.CoreCompileInputs.cache
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\obj\Debug\CRUD_Employees.Model.dll
+C:\Users\dosit\source\repos\CRUD_Employees\CRUD_Employees.Model\obj\Debug\CRUD_Employees.Model.pdb
